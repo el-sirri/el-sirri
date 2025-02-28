@@ -16,7 +16,7 @@
   <a href="https://www.facebook.com/share/18LfYDeCh3" target="_blank">
      <img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
-(*   <a href="https://discord.com/channels/@me/653551424269189121" target="_blank">
+(*   <a href="https://discord.com/medomm2652" target="_blank">
      <img src="https://img.shields.io/badge/Discord-5662f6?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a> *)
 </div>
@@ -29,9 +29,6 @@
     <a href="https://codeforces.com/profile/mohamedelsary960">
         <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width="6%"/>
     </a>&emsp; 
-(*     <a href="https://atcoder.jp/users/Borhom">
-        <img src="https://img.atcoder.jp/logo/atcoder/logo_transparent.png" alt="AtCoder" width="6%"/>
-    </a>&emsp;  *)
     <a href="https://leetcode.com/u/mohamed_elsery/">
         <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="6%"/>
  </a>&emsp;

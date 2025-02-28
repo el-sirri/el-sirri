@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center"> 
-  <a href="Mohamed.Al.Sirri@gmail.com">
+  <a href="mohamed.al.sirri@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-al-sirri-9055a1274/" target="_blank">
@@ -16,14 +16,14 @@
   <a href="https://www.facebook.com/share/18LfYDeCh3" target="_blank">
      <img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
-(*   <a href="https://discord.com/medomm2652" target="_blank">
+ <a href="https://discord.com/medomm2652" target="_blank">
      <img src="https://img.shields.io/badge/Discord-5662f6?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
-  </a> *)
+  </a> 
 </div>
 
  <hr/>
  
-<h2 align="center">⚒️ My Competitive Programming Profiles ⚒️</h2>
+<h2 align="center">⚒️ My Profiles ⚒️</h2>
 <br/>
 <div align="center">
     <a href="https://codeforces.com/profile/mohamedelsary960">
